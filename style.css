@@ -1,0 +1,78 @@
+body {
+	background-color: lightpink;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#loginicon {
+	width: 5%;
+	transform: translate(1140px,0);
+}
+
+#menuicon {
+	width: 5%;
+	transform: translate(995px,0);
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'Varela Round', sans-serif;
+	text-align: center;
+	font-size: 200%;
+	color:lightpink;
+}	
+
+#enter-button {
+		font-family:  'Somi’s Comeback “Dumb Dumb” a New Genre for Somi?' , monospace;
+}
+
+.subtitles {
+	font-family:  'BTS Confirmed Hosting a PJ Party' , monospace;
+}
+
+.news-covers {
+	height:  330px;
+	width: 500px;
+	border-radius:  45px;
+}
+
+#top-banner {
+	display: flex;
+}
+
+#login-elements {
+	position:  absolute;
+}
+
+#banner {
+	width: 100%;
+	position: relative;
+}
+
+#top-banner > h4 {
+	position: absolute;
+	transform: translate(650px,600px);
+}
+
+#cards { 
+	display:  flex;
+	justify-content:  space-evenly;
+ }
+
+#social-logos {
+	display: flex;
+	justify-content: space-evenly;
+	transform: translate(850px,500px);
+	
+}
+
+.social-images {
+	height: 200px;
+	transform: translate(-850px,30px);
+}
